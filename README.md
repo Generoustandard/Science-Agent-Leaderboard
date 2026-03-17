@@ -45,7 +45,6 @@ OpenAI GPT 기반 Agent가 과학 문제를 어떻게 해결하는지를 평가�
 
 ## 🧩 프로젝트 구조
 
-## Structure
 - /challenges   → 문제 정의 (Benchmark)
 - /evaluation   → 평가 로직 (Metrics, Scoring)
 - /leaderboard  → 결과 저장 및 랭킹
