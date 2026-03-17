@@ -7,7 +7,7 @@ OpenAI GPT 기반 Agent가 과학 문제를 어떻게 해결하는지를 평가�
 ## 📌 프로젝트 개요
 
 최근 LLM 기반 Agent가 빠르게 발전하고 있지만,  
-단순한 모델 성능이 아닌 **Agent 설계 방식(Workflow, Tool usage, Cost, Reproducibility)**을  
+단순한 모델 성능이 아닌 **Agent 설계 방식(Workflow, Tool usage, Cost, Reproducibility)**을 
 체계적으로 평가할 수 있는 환경은 아직 부족합니다.
 
 본 프로젝트는 다음을 목표로 합니다:
