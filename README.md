@@ -24,7 +24,7 @@ We focus on:
 - /docs → design & discussion
 
 ## Team
-- Junho Kong (Project Lead)
-- Kim Gayeong (Evaluation)
-- Kim Bogum (Benchmark)
-- Park Jinwoo (Research)
+- 공준호 (Project Lead)
+- 김가영 (Evaluation)
+- 김보금 (Benchmark)
+- 박진우 (Research)
