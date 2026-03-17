@@ -1,22 +1,30 @@
-# Science-Agent-Leaderboard
+# Science Agent Leaderboard
+
 A leaderboard for evaluating scientific problem-solving agents built with OpenAI models.
 
 ## Overview
-- Agent 설계 평가 리더보드
+This project aims to build a benchmark platform to evaluate agent-based scientific problem solving.
 
-## What we evaluate
+We focus on:
 - Scientific correctness
 - Tool usage
-- Cost
+- Cost efficiency
 - Reproducibility
 
-## Goal (MVP)
-- 하나의 task
-- 자동 실행
-- 점수 계산
-- 간단한 leaderboard
+## MVP Goal (First 2 Weeks)
+- Define one challenge
+- Run agent execution
+- Compute basic score
+- Display simple leaderboard
 
-## Timeline
-- 16 weeks
+## Structure
+- /challenges → task definitions
+- /evaluation → scoring logic
+- /leaderboard → ranking system
+- /docs → design & discussion
 
-## Team (추가 예정)
+## Team
+- Junho Kong (Project Lead)
+- Kim Gayeong (Evaluation)
+- Kim Bogum (Benchmark)
+- Park Jinwoo (Research)
