@@ -18,6 +18,14 @@ OpenAI GPT 기반 Agent가 과학 문제를 어떻게 해결하는지를 평가�
 
 ---
 
+## 🖥️ 대시보드 미리보기
+
+공개 대시보드는 모델 순위, 조건별 성능 비교, Standard/Pro 결과를 한 화면에서 탐색할 수 있도록 구성했습니다. 공개가 승인된 집계 정보만 표시하며, 평가 매트릭과 내부 채점 설정은 포함하지 않습니다.
+
+![Science Agent Leaderboard 대시보드](docs/assets/dashboard-overview.png)
+
+---
+
 ## 🎯 프로젝트 목표 (MVP)
 
 초기 2주 목표:
